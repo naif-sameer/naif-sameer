@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning **Nextjs, React, Vue, Tailwind CSS, and Nodejs**
 -->
 
 <h1 align="center">Hi 👋, I'm Naif Sameer</h1>
@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **Nextjs, React, Vue, Tailwind CSS, and Nodejs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/naif-projects](https://github.com/naif-projects)
 
-- 💬 Ask me about **react, vue, css, javascript**
+- 💬 Ask me about **react, vue, css, javascript, tailwindcss, Laravel, php and mysql**
 
 - 📫 How to reach me **https://twitter.com/naif4web**
 
