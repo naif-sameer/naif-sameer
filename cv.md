@@ -14,7 +14,9 @@
 
 ### Experience 
 - job title + company name + date
+
+---
 ## Front end 
 
-
+---
 ## Back end
